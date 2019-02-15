@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Project\PrintServer-master\FastReportDLL\LogService\bin\Release\LogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Project\PrintServer-master\FastReportDLL\LogService\bin\Release\LogService.exe
+   logfile = C:\Project\PrintServer-master\FastReportDLL\LogService\bin\Release\LogService.InstallLog
+Устанавливается служба ServiceLog...
+Служба ServiceLog успешно установлена.
+Создается исходный EventLog ServiceLog в журнале Application...
+Выполняется фиксация сборки 'C:\Project\PrintServer-master\FastReportDLL\LogService\bin\Release\LogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Project\PrintServer-master\FastReportDLL\LogService\bin\Release\LogService.exe
+   logfile = C:\Project\PrintServer-master\FastReportDLL\LogService\bin\Release\LogService.InstallLog

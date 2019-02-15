@@ -1,0 +1,13 @@
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Debug\ConsoleApplicationService.csprojAssemblyReference.cache
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Debug\ConsoleApplicationService.csproj.CoreCompileInputs.cache
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\ConsoleApplicationService.exe.config
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\ConsoleApplicationService.exe
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\ConsoleApplicationService.pdb
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\System.Data.SQLite.dll
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\System.Data.SQLite.xml
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\System.Data.SQLite.dll.config
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Debug\ConsoleApplicationService.csproj.CopyComplete
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Debug\ConsoleApplicationService.exe
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Debug\ConsoleApplicationService.pdb
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\LogDLL.dll
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Debug\LogDLL.pdb

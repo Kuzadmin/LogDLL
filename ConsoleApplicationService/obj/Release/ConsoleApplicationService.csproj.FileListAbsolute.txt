@@ -1,0 +1,16 @@
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Release\ConsoleApplicationService.csprojAssemblyReference.cache
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Release\ConsoleApplicationService.csproj.CoreCompileInputs.cache
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\ConsoleApplicationService.exe.config
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\ConsoleApplicationService.exe
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\ConsoleApplicationService.pdb
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\LogDLL.dll
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\LogService.exe
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\System.Data.SQLite.dll
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\LogDLL.pdb
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\LogService.pdb
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\LogService.exe.config
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\System.Data.SQLite.xml
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\bin\Release\System.Data.SQLite.dll.config
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Release\ConsoleApplicationService.csproj.CopyComplete
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Release\ConsoleApplicationService.exe
+C:\Project\PrintServer-master\FastReportDLL\ConsoleApplicationService\obj\Release\ConsoleApplicationService.pdb
